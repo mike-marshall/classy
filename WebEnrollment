@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T20:24:39.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="RVN4YvEOXiUq-oqjbfCz" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T21:30:46.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="04GDAjO5v7AMEuHYp6r0" version="14.4.6" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="1129" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -39,6 +39,42 @@
         </mxCell>
         <mxCell id="CIATEy0IHzxdzPjuSZLj-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/the-weather-is-nice-today/64/weather_48-128.png;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="135" y="180" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="CIATEy0IHzxdzPjuSZLj-16" value="Angular App" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="480" y="60" width="520" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CIATEy0IHzxdzPjuSZLj-18" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.html5;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="520" y="106" width="109.05" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="CIATEy0IHzxdzPjuSZLj-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/essentials-pack/96/code_coding_html_css_programming-128.png;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="540.52" y="260" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="CIATEy0IHzxdzPjuSZLj-20" value="Typescript/Javascript Sandbox" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="659" y="106" width="301" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="CIATEy0IHzxdzPjuSZLj-21" value="XYZ.component.ts" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="680" y="143" width="260" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="CIATEy0IHzxdzPjuSZLj-22" value="ABC.service.ts" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="715" y="180" width="162" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CIATEy0IHzxdzPjuSZLj-24" value="" style="endArrow=classic;html=1;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="370" as="sourcePoint" />
+            <mxPoint x="490" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CIATEy0IHzxdzPjuSZLj-25" value="" style="endArrow=classic;html=1;fontSize=18;entryX=0;entryY=0.074;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="CIATEy0IHzxdzPjuSZLj-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="50" as="sourcePoint" />
+            <mxPoint x="390" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CIATEy0IHzxdzPjuSZLj-26" value="" style="endArrow=classic;html=1;fontSize=18;entryX=-0.006;entryY=0.857;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="CIATEy0IHzxdzPjuSZLj-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="120" as="sourcePoint" />
+            <mxPoint x="489.9999999999998" y="89.9799999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
